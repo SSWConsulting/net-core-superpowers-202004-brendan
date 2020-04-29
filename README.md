@@ -18,5 +18,5 @@ it contains added samples for:
 - A Blazor Client UI sample that fetches weather data from the main webUI Rest API
 - A GRPC server example
 
-## Weather Cosole
+## Weather Console
 A small console app to demonstrate connectiong to the above Grpc example as a client.
